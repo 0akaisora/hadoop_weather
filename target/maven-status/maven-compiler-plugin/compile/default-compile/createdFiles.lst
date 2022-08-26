@@ -1,0 +1,14 @@
+com\linxi\weatherjob02\WeatherGroupingComparator.class
+com\linxi\weatherjob02\WeatherPartitioner.class
+com\linxi\weatherjob03\WeatherGroupingComparator.class
+com\linxi\weatherjob03\Weather.class
+com\linxi\weatherjob01\WeatherJob01.class
+com\linxi\weatherjob02\Weather02Mapper.class
+com\linxi\weatherjob02\WeatherJob02.class
+com\linxi\weatherjob03\WeatherPartitioner.class
+com\linxi\weatherjob03\Weather03Job.class
+com\linxi\weatherjob01\Weather01Mapper.class
+com\linxi\weatherjob01\Weather01Reducer.class
+com\linxi\weatherjob03\Weather03Mapper.class
+com\linxi\weatherjob03\WeatherMap03Reducer.class
+com\linxi\weatherjob02\Weather02Reducer.class
